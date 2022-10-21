@@ -101,7 +101,6 @@ class BMICalculatorTest {
         double[] expected = {18.52, 29.59, 19.53};
 
         // when
-
         double[] bmiScores = BMICalculator.getBMIScores(coders);
 
         // then
